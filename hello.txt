@@ -11,3 +11,4 @@ hello git
 hello hot-fix
 hello github
 ssh test
+免密登录测试
